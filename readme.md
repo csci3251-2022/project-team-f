@@ -12,7 +12,10 @@ Here is the Summary of our tasks:
 **Please read `tasks.md` to start your work.**
 
 # Code
-(task 5)
+```c
+{% include_relative code.c %}
+```
+![](https://github.com/csci3251-2022/project-team-f/actions/workflows/c-cpp.yml/badge.svg)
 # Contributors 
 (task 6)
 
