@@ -5,7 +5,7 @@ Here is the Summary of our tasks:
 - [x] List out what we have to do
 - [x] Edit `readme.md` and write this introduction
 - [x] Develop c program
-- [ ] Add a status badge and edit `Code` inside `readme.md`
+- [x] Add a status badge and edit `Code` inside `readme.md`
 - [ ] Edit `Contributors` inside `readme.md`
 - [ ] Promote our project
 
