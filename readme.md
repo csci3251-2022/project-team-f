@@ -12,7 +12,9 @@ Here is the Summary of our tasks:
 **Please read `tasks.md` to start your work.**
 
 # Code
-(task 5)
+```c
+{% include_relative code.c %}
+```
 # Contributors 
 (task 6)
 
